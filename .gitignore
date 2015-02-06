@@ -1,3 +1,9 @@
+
+#SKRYPT
+/backup/
+/inc/users.php
+/inc/login.inc.php
+
 # Windows image file caches
 Thumbs.db
 ehthumbs.db
